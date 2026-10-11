@@ -1,0 +1,18 @@
+
+body{
+margin:0;
+padding:20px;
+font-family:Microsoft YaHei;
+color:white;
+background:linear-gradient(135deg,#080014,#401060);
+min-height:100vh;
+}
+.card{
+padding:20px;
+margin:15px;
+}
+button{
+border:0;
+padding:12px 20px;
+border-radius:20px;
+}
