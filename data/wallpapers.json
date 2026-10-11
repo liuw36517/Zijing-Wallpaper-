@@ -1,0 +1,19 @@
+[
+ {
+  "name":"银河星空",
+  "type":"4K",
+  "resolution":"3840x2160"
+ },
+
+ {
+  "name":"未来城市",
+  "type":"科幻",
+  "resolution":"2560x1440"
+ },
+
+ {
+  "name":"紫荆幻想",
+  "type":"动漫",
+  "resolution":"1920x1080"
+ }
+]
